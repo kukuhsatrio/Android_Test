@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="layout1" />
+    <item type="id" name="layout2" />
+    <item type="id" name="layout3" />
+    <item type="id" name="checkbox0" />
+    <item type="id" name="checkbox1" />
+    <item type="id" name="checkbox2" />
+    <item type="id" name="checkbox3" />
+    <item type="id" name="checkbox4" />
+    <item type="id" name="checkbox5" />
+    <item type="id" name="checkbox6" />
+    <item type="id" name="checkbox7" />
+    <item type="id" name="checkbox8" />
+    <item type="id" name="checkbox9" />
+    <item type="id" name="checkbox10" />
+    <item type="id" name="checkbox11" />
+    <item type="id" name="checkbox12" />
+    <item type="id" name="checkbox13" />
+    <item type="id" name="checkbox14" />
+    <item type="id" name="checkbox15" />
+    <item type="id" name="checkbox16" />
+
+</resources>
